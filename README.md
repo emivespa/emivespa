@@ -1,4 +1,4 @@
-Also on [Gitlab](https://gitlab.com/emivespa) sometimes.
+[Gitlab](https://gitlab.com/emivespa).
 
 - [www](https://github.com/emivespa/www) - https://emivespa.com
   - should immediately go live when the Namecheap to Route53 domain transfer kicks in ~Jun 13th
