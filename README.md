@@ -9,3 +9,5 @@
   - search engine for [@CirculoVicioso8](https://www.youtube.com/@CirculoVicioso8)
 - [iih](https://github.com/emivespa/iih)
   - simple IRC client with Ink (React in the terminal)
+- [yt-dmp](https://github.com/emivespa/yt-dlp)
+  - `youtube-dl --dump-json` as an API
